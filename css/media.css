@@ -1,0 +1,190 @@
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	 /*header-start*/
+       .menu ul li a{	
+           text-align: right;
+           padding: 10px 0 0!important;
+           font-size: 20px;
+       }
+       /*header-end*/
+        /*slider-start*/
+       .s-icon ul li i{
+        font-size: 35px !important; 
+       }
+       .s-icon ul li { 
+            padding: 0 10px!important;
+    }       
+            .cid {
+            bottom: -60px;
+            }
+            .s-text h1 {
+           font-size: 20px;
+       }
+
+        /*slider-end*/
+
+          /*feature-start*/
+          .features {
+            padding-top: 60px!important;
+            padding-bottom: 80px!important;
+        }
+            .f-single {
+            margin-top: 40px!important;
+           text-align: center;
+       }
+       .h1-tex {
+          font-size: 25px!important;
+      }
+
+       .f-tex h2 {
+         margin: 5px 0 5px!important;
+     }
+        /*feature-end*/
+
+        /*contact-start*/
+        .contact {
+         padding-top: 70px!important;
+         padding-bottom: 80px!important;
+     }
+        .c-social ul li a i {
+           font-size: 30px!important;
+       }
+       .c-social ul li a {
+        display: block;
+        width: 40px!important;
+        height: 35px!important;
+        margin-right: 10px !important;
+    } 
+        /*contact-end*/
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	 /*header-start*/
+       .menu ul li a{	
+           text-align: right;
+           padding: 10px 0 0!important;
+           font-size: 20px;
+       }
+       /*header-end*/
+        /*slider-start*/
+       .s-icon ul li i{
+        font-size: 35px !important; 
+       }
+       .s-icon ul li { 
+         padding: 0 10px!important;
+    }  
+           .cid {
+              bottom: -60px!important
+              }
+              
+               .s-text h1 {
+           font-size: 20px;
+       } 
+        /*slider-end*/
+
+        /*feature-start*/
+        .f-single {
+            margin-top: 40px!important;
+           text-align: center;
+       }
+       .h1-tex {
+          font-size: 25px!important;
+      }
+
+       .f-tex h2 {
+         margin: 5px 0 5px!important;
+     }
+        /*feature-end*/
+
+        /*contact-start*/
+          .contact {
+             padding-top: 70px!important;
+             padding-bottom: 80px!important;
+         }
+        /*contact-end*/
+
+
+        /*footer-start*/
+        footer{
+            padding-bottom: 35px;
+        }
+        }
+            .f-1{
+             text-align: center;
+            }
+            .f-2 p a{
+               text-align: center;
+               margin-top: 10px;
+            }
+            .f-3 p a{
+              text-align: center;
+               margin-top: 10px;
+
+            }
+            .f-4 p a{
+              text-align: center;
+               margin-top: 10px;
+
+            }
+            .f-5 p a{
+             text-align: center;
+               margin-top: 10px;
+
+            }
+        /*footer-end*/
+
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+       /*header-start*/
+    .menu ul li a {
+         margin: 0 30px!important;
+         font-size: 22px!important;
+     }
+      
+     
+       .menu ul li a{	
+           text-align: right;
+           padding: 10px 0 0!important;
+           font-size: 20px;
+       }
+       /*header-end*/
+       /*slider-start*/
+       .s-icon ul li i{
+        font-size: 35px !important; 
+       }
+       .s-icon ul li { 
+            padding: 0 10px!important;
+    }       
+        /*sliderc-end*/
+
+        /*feature-start*/
+         .features {
+            padding-top: 80px!important;
+            padding-bottom: 100px!important;
+        }
+         .f-icon i {
+         font-size: 40px!important;
+     }
+        /*feature-end*/
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .menu ul li a {
+         margin: 0 30px!important;
+         font-size: 22px!important;
+     }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+   
+
+}
